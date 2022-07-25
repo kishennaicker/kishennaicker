@@ -1,6 +1,7 @@
 ### About Me
 	~ 👋 Hi there, I'm Kishen, software development student
 	~ 💻 Studying Java, C# using dotnet core and notnet framework, SQL, NoSql, web development focusing on MVC frameworks
+	~ Well versed in Android Devlopment, both backend and frontend
 	~ Studying Python in my free time
 	~ I’m currently working on exapnding my knowledge in the programming field
 	
